@@ -1,4 +1,3 @@
 module.exports={
-  outputDir : "./docs",
-  publicPath: '/bakery-project-frontend/'
+  publicPath: '/bakery-project-frontend'
 }
